@@ -6,9 +6,9 @@ string lastName = "Maria";
 
 Console.WriteLine($"Meu nome completo é {firstname} {surname} {lastName}");
 
-int idade = 30;
+// int idade = 31;
 
-Console.WriteLine($"E minha idade é {idade}");
+// Console.WriteLine($"E minha idade é {idade}");
 
 Console.WriteLine($"Escreva seu nome: ");
 
